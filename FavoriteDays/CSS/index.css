@@ -1,0 +1,79 @@
+body
+{
+	
+	text-align: center;
+	font-size: 35;
+	
+	background: linear-gradient(0deg, grey, #dddddd);
+
+    border: 45px solid black;
+    margin: 100px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	
+}
+
+ul.quicklinks
+{
+
+	list-style: none;
+	
+}
+
+ul.quicklinks li
+{
+
+	float: left;
+	
+	padding-left: 45px;
+	padding-right: 45px;
+	padding-bottom: 45px;
+	
+	margin-left: 60px; /*60px */
+	margin-right: 60px; /*60px */
+	
+}
+
+a.birthday_quicklink
+{
+	text-decoration: none;
+}
+a.birthday_quicklink:link
+{
+	color:black;
+}
+a.birthday_quicklink:visited
+{
+	color:black;
+}
+
+
+
+a.kickoff_quicklink
+{
+	text-decoration: none;
+}
+a.kickoff_quicklink:link
+{
+	color:black;
+}
+a.kickoff_quicklink:visited
+{
+	color:black;
+}
+
+
+
+a.christmas_quicklink
+{
+	text-decoration: none;
+}
+a.christmas_quicklink:link
+{
+	color:black;
+}
+a.christmas_quicklink:visited
+{
+	color:black;
+}
+
